@@ -1,0 +1,5 @@
+c:\users\mbp-win\documents\visual studio 2015\Projects\Zajecia\DrugaAplikacja\DrugaAplikacja\bin\Debug\DrugaAplikacja.exe.config
+c:\users\mbp-win\documents\visual studio 2015\Projects\Zajecia\DrugaAplikacja\DrugaAplikacja\bin\Debug\DrugaAplikacja.exe
+c:\users\mbp-win\documents\visual studio 2015\Projects\Zajecia\DrugaAplikacja\DrugaAplikacja\bin\Debug\DrugaAplikacja.pdb
+c:\users\mbp-win\documents\visual studio 2015\Projects\Zajecia\DrugaAplikacja\DrugaAplikacja\obj\Debug\DrugaAplikacja.exe
+c:\users\mbp-win\documents\visual studio 2015\Projects\Zajecia\DrugaAplikacja\DrugaAplikacja\obj\Debug\DrugaAplikacja.pdb

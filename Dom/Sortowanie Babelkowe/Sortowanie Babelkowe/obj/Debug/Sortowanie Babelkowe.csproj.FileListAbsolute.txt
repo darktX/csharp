@@ -1,0 +1,6 @@
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\bin\Debug\Sortowanie Babelkowe.exe.config
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\bin\Debug\Sortowanie Babelkowe.exe
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\bin\Debug\Sortowanie Babelkowe.pdb
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\obj\Debug\Sortowanie Babelkowe.exe
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\obj\Debug\Sortowanie Babelkowe.pdb
+C:\Users\MBP-Win\Documents\Visual Studio 2015\Projects\Domowetesty\Sortowanie Babelkowe\Sortowanie Babelkowe\obj\Debug\Sortowanie Babelkowe.csprojResolveAssemblyReference.cache
