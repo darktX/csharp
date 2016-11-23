@@ -27,7 +27,7 @@ namespace Sortowanie_Babelkowe
                 {
                     tablica[i] = Convert.ToInt32(Console.ReadLine());
                 }
-                // sortowanie bąbelkowe
+                
                 for (int i = n; i > 1; i--)
                 {
                     for (int j = 1; j < i; j++)
@@ -51,7 +51,7 @@ namespace Sortowanie_Babelkowe
                 {
                     Console.Write($"{tablica[i]} ");
                 }
-
+                //cos napisalem
 
                 Console.ReadLine();
             
