@@ -51,7 +51,7 @@ namespace Sortowanie_Babelkowe
                 {
                     Console.Write($"{tablica[i]} ");
                 }
-                //cos napisalem
+                //cos napisalem Cos na Macu
 
                 Console.ReadLine();
             
