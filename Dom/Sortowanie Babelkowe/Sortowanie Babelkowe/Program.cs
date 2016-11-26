@@ -22,7 +22,7 @@ namespace Sortowanie_Babelkowe
                 Console.Write("Podaj rozmiar tablicy: ");
                 int n = Convert.ToInt32(Console.ReadLine());
                 int[] tablica = new int[n];
-                // wpisanie do tablicy
+                // wpisywanie do tablicy
                 for (int i = 0; i < n; i++)
                 {
                     tablica[i] = Convert.ToInt32(Console.ReadLine());
