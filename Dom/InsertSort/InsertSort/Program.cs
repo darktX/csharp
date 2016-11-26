@@ -12,11 +12,11 @@ namespace InsertSort
         {
             int n = 0;
             int l = 0;
-            Console.WriteLine("Wpisz ile miejsc ma mieć tablica: ");
+            Console.WriteLine("Podaj rozmiar tablicy: ");
             n = Convert.ToInt32(Console.ReadLine());
             int[] tab = new int[n];
             //wpisywanie do tablicy
-            for(int i =0;i<n;i++)
+            for(int i =0; i<n; i++)
             {
                 tab[i] = Convert.ToInt32(Console.ReadLine());
                 
@@ -27,7 +27,7 @@ namespace InsertSort
             {
                 l = tab[k];
                 //ustalone k>=1
-                while(k>0&&l<tab[k-1])
+                while(k>0 && l<tab[k-1])
                 {
                     tab[k] = tab[k - 1];
                     k--;
