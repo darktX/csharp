@@ -34,7 +34,7 @@ namespace InsertSort
                 }
                 tab[k] = l;
             }
-            //wypisywanie z tablicy
+            // wypisywanie z tablicy
             for (int i = 0; i < n; i++)
             {
                 Console.Write(tab[i]);
