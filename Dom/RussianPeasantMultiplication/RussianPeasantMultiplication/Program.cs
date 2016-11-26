@@ -27,7 +27,7 @@ namespace RussianPeasantMultiplication
                 b = b / 2;
             }
             wynik = wynik + a;
-            Console.WriteLine($"Wynik to: {wynik}");
+            Console.WriteLine($"Wynik mnożenia to: {wynik}");
             Console.ReadKey();
 
         }
