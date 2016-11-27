@@ -4,3 +4,6 @@ c:\users\mbp-win\documents\visual studio 2015\Projects\Domowetesty\Potega\Potega
 c:\users\mbp-win\documents\visual studio 2015\Projects\Domowetesty\Potega\Potega\bin\Debug\Potega.pdb
 c:\users\mbp-win\documents\visual studio 2015\Projects\Domowetesty\Potega\Potega\obj\Debug\Potega.exe
 c:\users\mbp-win\documents\visual studio 2015\Projects\Domowetesty\Potega\Potega\obj\Debug\Potega.pdb
+C:\Users\Jacek\Desktop\GitHub\csharp\Dom\Potega\Potega\bin\Debug\Potega.exe.config
+C:\Users\Jacek\Desktop\GitHub\csharp\Dom\Potega\Potega\obj\Debug\Potega.exe
+C:\Users\Jacek\Desktop\GitHub\csharp\Dom\Potega\Potega\obj\Debug\Potega.pdb
